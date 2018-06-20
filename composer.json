@@ -5,8 +5,8 @@
   "type": "face recognition",
   "license": "BSD-3-Clause",
   "support": {
-    "issues": "https://github.com/chatfeed/FaceRecognition/issues",
-    "source": "https://github.com/chatfeed/FaceRecognition"
+    "issues": "https://github.com/chatfeed/face-recognition/issues",
+    "source": "https://github.com/chatfeed/face-recognition"
   },
   "authors": [
     {
@@ -15,8 +15,6 @@
     }
   ],
   "minimum-stability": "dev",
-  "require": {
-  },
   "autoload": {
     "psr-4": {
       "cfd\\fr\\": ""
