@@ -1,5 +1,5 @@
 {
-  "name": "chatfeed/FaceRecognition",
+  "name": "chatfeed/face-recognition",
   "description": "auto document tool for Yii2 ",
   "keywords": ["yii2", "face", "recognition"],
   "type": "face recognition",
