@@ -2,7 +2,6 @@
   "name": "chatfeed/face-recognition",
   "description": "auto document tool for Yii2 ",
   "keywords": ["yii2", "face", "recognition"],
-  "type": "face recognition",
   "license": "BSD-3-Clause",
   "support": {
     "issues": "https://github.com/chatfeed/face-recognition/issues",
@@ -14,6 +13,9 @@
       "email": "chatfeed@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=7.0.0"
+  },
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
